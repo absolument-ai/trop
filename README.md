@@ -15,6 +15,12 @@
 
 ---
 
+## Visual results
+
+<a href="assets/results/blink.webp"><img src="assets/results/blink.webp" width="32%" alt="A woman and a wet dog photographed under direct flash in a laundromat."></a> <a href="assets/results/loud.webp"><img src="assets/results/loud.webp" width="32%" alt="A portrait surrounded by magazine cuttings, pink feathers and chrome lettering."></a> <a href="assets/results/honest.webp"><img src="assets/results/honest.webp" width="32%" alt="A worn cowboy hat on a fence beneath a wide, dusty sky."></a>
+
+[Explore all ten images by Jérémy Gross](examples/results.md)
+
 ## Why TROP
 
 *Trop* is French for **too much**. Too loud, too raw, too human.
