@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="1280" height="400">
+  <defs>
+    <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.09 0"/></filter>
+    <linearGradient id="acid" x1="0" x2="1"><stop offset="0" stop-color="#C6FF00"/><stop offset="1" stop-color="#FF3D7F"/></linearGradient>
+  </defs>
+  <rect width="1280" height="400" fill="#0B0B0C"/>
+  <rect width="1280" height="400" filter="url(#grain)"/>
+  <rect x="64" y="300" width="420" height="10" fill="url(#acid)" transform="rotate(-1.5 274 305)"/>
+  <text x="58" y="262" font-family="Impact, 'Arial Black', Helvetica, sans-serif" font-size="230" font-weight="900" fill="#F2EFE8" letter-spacing="-6" textLength="560" lengthAdjust="spacingAndGlyphs">TROP</text>
+  <text x="62" y="262" font-family="Impact, 'Arial Black', Helvetica, sans-serif" font-size="230" font-weight="900" fill="none" stroke="#FF3D7F" stroke-width="1.5" letter-spacing="-6" opacity="0.7" textLength="560" lengthAdjust="spacingAndGlyphs">TROP</text>
+  <text x="690" y="150" font-family="'Courier New', monospace" font-size="26" fill="#F2EFE8" opacity="0.92">IMAGE PROMPTS WITH A SIGNATURE</text>
+  <text x="690" y="200" font-family="Georgia, serif" font-style="italic" font-size="34" fill="#C6FF00">Too loud, too raw, too human.</text>
+  <text x="690" y="244" font-family="Georgia, serif" font-style="italic" font-size="34" fill="#F2EFE8" opacity="0.8">Anything but generic.</text>
+  <text x="690" y="330" font-family="'Courier New', monospace" font-size="18" fill="#8A8780">FIG. 01 — CLAUDE SKILL + CUSTOM GPT</text>
+</svg>
